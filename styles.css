@@ -1,0 +1,39 @@
+Body{background-image:url("https://i.pinimg.com/236x/61/ef/63/61ef632355a8cd0283c11650361a5d2d--jolly-roger-skull-design.jpg");
+background: linear-gradient(45deg, blue, aqua );
+}
+h1{text-align:center; 
+color:aqua;
+text-decoration:underline wavy white;
+}
+.row {
+    display: flex;
+    justify-content:space-around;
+    width:50%;
+}
+.row > div {
+    flex: 0 1 50vw;
+    height: 100%;
+}
+
+img {
+    width: 100%;
+}
+.control {
+    cursor: pointer;
+}
+.object2 {
+    display: none;
+}
+.object3 {
+    display: none;
+}
+.object4{
+    display:none;
+}
+.object5{
+    display:none;
+   
+   
+}
+p{color:crimson;
+}
